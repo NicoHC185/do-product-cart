@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "do-product-cart",
+  "name": "nicohc185-do-product-cart",
   "author": "NicoHC185",
   "module": "dist/do-product-cart.esm.js",
   "size-limit": [
