@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage Debe de mostrar el componente con la imagen del product1 (sin imagen) 1`] = `
+<div>
+  <div
+    class="productCard undefined"
+  >
+    <img
+      alt="Product img"
+      class="productImg undefined"
+      src="../assets/no-image.jpg"
+    />
+  </div>
+</div>
+`;
+
+exports[`ProductImage Debe de mostrar el componente con la imagen del product2 1`] = `
+<div>
+  <div
+    class="productCard undefined"
+  >
+    <img
+      alt="Product img"
+      class="productImg undefined"
+      src="./coffe-mug.png"
+    />
+  </div>
+</div>
+`;
+
+exports[`ProductImage Debe de mostrar el componente con la imagen personalizada 1`] = `
+<div>
+  <img
+    alt="Product img"
+    class="productImg undefined"
+    src="https://sm.ign.com/ign_es/news/m/monster-hu/monster-hunter-wilds-mod-already-gives-unlimited-character-a_z9ga.jpg"
+  />
+</div>
+`;
