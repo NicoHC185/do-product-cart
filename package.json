@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/NicoHC185/do-product-cart",
@@ -57,8 +57,10 @@
     "@rollup/plugin-image": "^3.0.3",
     "@size-limit/preset-small-lib": "^11.2.0",
     "@testing-library/dom": "^10.4.0",
+    "@testing-library/react": "^16.2.0",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
+    "@types/react-test-renderer": "^19.0.0",
     "babel-jest": "^29.7.0",
     "husky": "^9.1.7",
     "identity-obj-proxy": "^3.0.0",
@@ -71,9 +73,7 @@
     "size-limit": "^11.2.0",
     "tsdx": "^0.14.1",
     "tslib": "^2.8.1",
-    "typescript": "^5.7.3",
-    "@testing-library/react": "^16.2.0",
-    "@types/react-test-renderer": "^19.0.0"
+    "typescript": "^5.7.3"
   },
   "dependencies": {},
   "keywords": [
