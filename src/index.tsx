@@ -3,7 +3,7 @@ import ProductCard, { ProductButtons, ProductImage, ProductTitle } from './compo
 
 const product = {
   id: '1',
-  title: 'Coffe mug',
+  title: 'Coffe mug - sin imagen',
 }
 
 export const Example = () => {
